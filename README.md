@@ -25,3 +25,8 @@ I'm always open to new opportunities, collaborations, and discussions. If you'd 
 - **GitHub**: [GitHub profile](https://github.com/KenSteadman)
 
 Let's explore the world of data together! 📊📈🔍
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/steadmanken"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
